@@ -14,7 +14,7 @@ alwaysApply: false
 - Git 관리 규칙
   - **Git 명령어는 Github mcp 를 사용해서 수행합니다**
 - 테스트 규칙
-  - **puppeteer mcp 를 사용해서 브라우저 상에서 다양한 테스트를 수행합니다**
+  - **Playwright mcp 를 사용해서 브라우저 상에서 다양한 테스트를 수행합니다**
 
 ## 기술 스택
 - HTML5
