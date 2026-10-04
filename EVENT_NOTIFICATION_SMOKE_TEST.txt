@@ -1,0 +1,6 @@
+Event notification smoke test
+
+This draft-only marker supports a single pull-request comment delivery test.
+Test ID: GH_EVENT_20261004T045650982Z
+
+No application code changes are intended. Do not merge this test branch.
